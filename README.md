@@ -51,11 +51,28 @@ Welcome to my DSA (Data Structures & Algorithms) learning repository! This repo 
 
 ---
 
-## 🎯 Contest Performance
 
-- ✅ **Contest 1** – [Topics: Arrays]
-- ✅ **Contest 2** – [Topics: Strings & Recursion]
-- ✅ **Contest 3** – [Topics: Linked Lists, Stack, Queue]
+## 🏆 Weekly Contests
+
+### ✅ Contest 1 
+1. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+2. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
+3. [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+
+---
+
+### ✅ Contest 2 
+1. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+2. [House Robber](https://leetcode.com/problems/house-robber/)
+3. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+
+---
+
+### ✅ Contest 3 
+1. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+2. [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
+3. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+
 
 ---
 
